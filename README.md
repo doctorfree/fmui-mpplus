@@ -53,7 +53,7 @@ The config is a bash script called "config" located in "~/.config/fmui/".
 ### Cover images
 
 1. Install:
-   - [Überzug](https://github.com/seebye/ueberzug)
+   - [Überzug](https://github.com/doctorfree/ueberzug-mpplus)
    - ffmpeg or avconv (should also include ffprobe or avprobe)
    - file likely already installed
 2. Assign the path of your music collection to DIR_MUSIC in your config.
